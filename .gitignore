@@ -1,0 +1,12 @@
+# User
+*.vs
+*.vscode
+*.suo
+*.user
+
+# Build
+bin/
+obj/
+
+# Test
+test-results/
